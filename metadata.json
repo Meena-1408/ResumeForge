@@ -1,0 +1,6 @@
+{
+  "name": "ResumeForge AI – AI Powered Resume & Career Intelligence Platform",
+  "description": "Analyze your resume, discover missing skills, match company expectations, improve ATS score, and build a stronger internship profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
